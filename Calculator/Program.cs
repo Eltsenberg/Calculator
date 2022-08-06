@@ -1,6 +1,6 @@
 ﻿static class calculator
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
         string? arguments;
         var stack = new Stack<double>();

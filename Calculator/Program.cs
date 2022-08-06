@@ -1,4 +1,4 @@
-﻿static class calculator
+﻿static class ProgramCalculator
 {
     private static void Main()
     {
